@@ -1,4 +1,4 @@
-# STM32 Hardware Metronome
+# STM32 Low Power Metronome With Tap Tempo
 
 This repository contains the firmware and configuration for a standalone, feature-rich digital metronome built on the NUCLEO-STM32L432KC microcontroller. Designed to replace limited freemium mobile apps and reduce screen time during long acoustic flatpicking and fingerstyle practice sessions, the system prioritizes tactile hardware controls, precise audio generation, and aggressive power management.
 

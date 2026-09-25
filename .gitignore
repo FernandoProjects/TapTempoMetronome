@@ -1,0 +1,20 @@
+# Keil build artifacts and output folders
+*/MDK-ARM/STM32L432KC_NUCLEO/
+*.o
+*.d
+*.crf
+*.map
+*.lst
+*.bak
+*.dep
+*.hex
+*.axf
+*.htm
+*.sct
+
+# Keil local workspace settings
+*.uvoptx
+*.uvguix.*
+*.scvd
+DebugConfig/
+RTE/

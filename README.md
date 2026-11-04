@@ -47,6 +47,7 @@ This project was built using the Keil MDK-ARM IDE and standard STMicroelectronic
   * `MDK-ARM/`: Contains the `.uvprojx` Keil project and main application source (`metronome_final_version.c`).
 
   * `ssd1306/`: An open-source [SSD1306 OLED library by afiskon](https://github.com/afiskon/stm32-ssd1306) utilized for the graphical interface (licenses retained within).
+* `Demo/`: Contains a demo video of the project.
 
 ## How to Build
 
